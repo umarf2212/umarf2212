@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-Grind stays on!
+## Grind stays on!
 ![Umar Farooque's LeetCode Stats](https://leetcard.jacoblin.cool/umarf22?theme=dark&font=Baloo%202&ext=heatmap)
 
 <!--
