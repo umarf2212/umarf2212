@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Grind stays on!
+![Umar Farooque's LeetCode Stats](https://leetcard.jacoblin.cool/umarf22?theme=dark&font=Baloo%202&ext=heatmap)
+
 <!--
 **umarf2212/umarf2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
